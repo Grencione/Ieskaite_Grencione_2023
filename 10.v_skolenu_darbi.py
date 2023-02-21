@@ -1,29 +1,29 @@
 #Tatjana Grencione
 
-#1 Azarçvièa Arina
+#1 AzarÃ§viÃ¨a Arina
 
-#2 Bâra Antuanete
+#2 BÃ¢ra Antuanete
 
 #3 Boja Ernests
 
-#4 Donovs Emîls Niks
+#4 Donovs EmÃ®ls Niks
 
 #5 Feldmane Laura
+print(sin(radians(30)+fmod(13,2))) #RindÄ Nr.12 pievienoju matemÄtisku darbÄ«bu sin30+0.5
+#6 KarpoviÃ¨a Zlata
 
-#6 Karpovièa Zlata
+#7 KÃ¯imova Anna
 
-#7 Kïimova Anna
+#8 KokoreviÃ¨a DiÃ¢na
 
-#8 Kokorevièa Diâna
+#9 KrastiÃ²Ã° Guntis
 
-#9 Krastiòğ Guntis
+#10 LoÃ¨mele LÃ®va
 
-#10 Loèmele Lîva
-
-#11 Milliòğ Mâris
+#11 MilliÃ²Ã° MÃ¢ris
 
 #12 Plonis Gustavs
 
-#13 Strazdiòa Paula Marta
+#13 StrazdiÃ²a Paula Marta
 
-#14 Vanags Renârs
+#14 Vanags RenÃ¢rs
