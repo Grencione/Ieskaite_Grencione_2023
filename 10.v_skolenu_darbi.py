@@ -1,29 +1,30 @@
 #Tatjana Grencione
 
-#1 Azarçvièa Arina
+#1 AzarÃ§viÃ¨a Arina
 
-#2 Bâra Antuanete
+#2 BÃ¢ra Antuanete
 
 #3 Boja Ernests
 
-#4 Donovs Emîls Niks
+#4 Donovs EmÃ®ls Niks
 
 #5 Feldmane Laura
 
-#6 Karpovièa Zlata
+#6 KarpoviÃ¨a Zlata
 
-#7 Kïimova Anna
+#7 KÃ¯imova Anna
+print(sin(radians(30)+fmod(13,2)))
 
-#8 Kokorevièa Diâna
+#8 KokoreviÃ¨a DiÃ¢na
 
-#9 Krastiòğ Guntis
+#9 KrastiÃ²Ã° Guntis
 
-#10 Loèmele Lîva
+#10 LoÃ¨mele LÃ®va
 
-#11 Milliòğ Mâris
+#11 MilliÃ²Ã° MÃ¢ris
 
 #12 Plonis Gustavs
 
-#13 Strazdiòa Paula Marta
+#13 StrazdiÃ²a Paula Marta
 
-#14 Vanags Renârs
+#14 Vanags RenÃ¢rs
